@@ -7,7 +7,7 @@
 📈 Comprometido con la visualización de datos, no solo para presentar información, sino para contar historias que inspiren acción.
 <br>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ppyecom" alt="ppyecom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ppyecom&theme=dracula&margin-w=15" alt="ppyecom" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en un proyecto personal Full Stack con React y ASP NET para un ecommerce para la venta y administración de un negocio de tecnología. [BACKEND](https://github.com/ppyecom/WebApiGP-ASPNET) [FRONTEND](https://github.com/ppyecom/EcommerceGP-REACT)
 
