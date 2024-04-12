@@ -17,7 +17,7 @@
 
 - 📫 Contacto **piero.neam@gmail.com**
 
-- ⚡ Me gusta **Me gusta mucho aprender sobre el desarrollo de nuevos sistemas de alta complejidad, también tengo una pasión por el Muay Thai y la producción musical Hardcore/Uptempo.**
+- ⚡ **Me gusta mucho aprender sobre el desarrollo de nuevos sistemas de alta complejidad, también tengo una pasión por el Muay Thai y la producción musical Hardcore/Uptempo.**
 
 
 
